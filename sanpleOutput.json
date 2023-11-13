@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 12638,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Biztoc.com" },
+      "author": "forbes.com",
+      "title": "Jobs Number Sends Stocks Lower And Rates Higher",
+      "description": "Stocks bounced around on Thursday before finally settling little changed from Wednesday as interest rates fell for the second day in a row. Both the S&P 500 and Nasdaq Composite fell just 0.1%. But that could all change today following the release of the late…",
+      "url": "https://biztoc.com/x/babfc676d7ee8bb8",
+      "urlToImage": "https://c.biztoc.com/p/babfc676d7ee8bb8/s.webp",
+      "publishedAt": "2023-10-06T14:10:06Z",
+      "content": "Stocks bounced around on Thursday before finally settling little changed from Wednesday as interest rates fell for the second day in a row. Both the S&amp;P 500 and Nasdaq Composite fell just 0.1%. B… [+287 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Alistair Charlton, Senior Contributor, \n Alistair Charlton, Senior Contributor\n https://www.forbes.com/sites/alistaircharlton/",
+      "title": "Hyundai And Kia Are Latest EV Makers To Adopt Tesla Charging Standard",
+      "description": "South Korean automakers Kia and Hyundai are the latest electric car manufacturers to say they will adopt Tesla’s charging standard for vehicles sold in the US.",
+      "url": "https://www.forbes.com/sites/alistaircharlton/2023/10/06/hyundai-and-kia-are-latest-ev-makers-to-adopt-tesla-charging-standard/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652013c28a7352d3d2b29e51/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-10-06T14:09:20Z",
+      "content": "Hyundai and Kia EVs will work with Tesla Supercharger stations from Q4 2024\r\nDewhust Photo / Hyundai\r\nSouth Korean automakers Hyundai and Kia are the latest electric car manufacturers to say they wil… [+2256 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ilgiornale.it" },
+      "author": "redazione@ilgiornale-web.it (Luigi Melita)",
+      "title": "Octopus Electroverse: una tessera e un'app per ricaricare ovunque l'auto elettrica",
+      "description": "La soluzione alla ricarica pubblica delle auto elettriche con la tessera gratuita di Octopus Electroverse",
+      "url": "https://www.ilgiornale.it/news/automotive/octopus-electroverse-tessera-e-unapp-ricaricare-ovunque-2222043.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/10/06/1696599450-octopus-electroverse-3-credit-octopus.jpeg?_=1696599450",
+      "publishedAt": "2023-10-06T14:06:47Z",
+      "content": "Il mercato dei servizi di ricarica delle auto elettriche è ampio e variegato, ma le soluzioni odierne non sempre offrono tutti i servizi, o se lo fanno non sempre questi sono gratuiti.\r\nC'è chi perme… [+2272 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Bikash Singh",
+      "title": "Mizoram Police arrests Myanmar national, recovers 11.6 kgs of crystal methamphetamine tablets",
+      "description": "Police officials said that Aizawl district special branch of Mizoram police intercepted a car at Zemabawk East and arrested Ropianga (37), a Myanmar national.",
+      "url": "https://economictimes.indiatimes.com/news/india/mizoram-police-arrests-myanmar-national-recovers-11-6-kgs-of-crystal-methamphetamine-tablets/articleshow/104219806.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104219792,width-1200,height-630,imgsize-61684,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-06T14:06:42Z",
+      "content": "India Inc may Log a Nifty Performance in Second QtrCompanies making up the Nifty 50 are expected to report another quarter of robust aggregate profit growth in the three months to September, helped b… [+948 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eschatonblog.com" },
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "Under Penalty",
+      "description": "Lock him up!\nThe U.S. Securities and Exchange Commission sued Elon Musk on Thursday in an effort to compel the billionaire to testify over his purchase of Twitter last year.\n\nAttorneys representing the SEC alleged in a legal filing released in the Northern Di…",
+      "url": "https://www.eschatonblog.com/2023/10/under-penalty.html",
+      "urlToImage":  "https://ares.shiftdelete.net/2023/10/tesla-model-y-istanbul-yangin-KAPAK.jpg",
+      "publishedAt": "2023-10-06T14:01:00Z",
+      "content": "The U.S. Securities and Exchange Commission sued Elon Musk on Thursday in an effort to compel the billionaire to testify over his purchase of Twitter last year.\r\nAttorneys representing the SEC allege… [+213 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Shiftdelete.net" },
+      "author": "Emir Bolat",
+      "title": "Fabrikadan yeni çıkan Tesla Model Y’ler, İstanbul’da alev aldı! (Video)",
+      "description": "Bu içerik ilk olarak Fabrikadan yeni çıkan Tesla Model Y’ler, İstanbul’da alev aldı! (Video) adresinde yayınlandı Teknoloji Haberleri - ShiftDelete.Net.",
+      "url": "https://shiftdelete.net/tesla-model-y-istanbul-yangin",
+      "urlToImage": "https://ares.shiftdelete.net/2023/10/tesla-model-y-istanbul-yangin-KAPAK.jpg",
+      "publishedAt": "2023-10-06T14:00:18Z",
+      "content": "Dünyann en büyük elektrikli otomobil üreticilerinden Tesla, yangn haberleri ile adndan söz ettirmeye devam ediyor. Son yangn olay ise stanbul’da yaand. Öyle ki Tesla Model Y ile dolu bir tr alev ald.… [+1559 chars]"
+    }
+  ]
+}
